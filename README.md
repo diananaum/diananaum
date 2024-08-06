@@ -1,7 +1,3 @@
-### My CV
-
-[Link to my CV]()
-
 ### Portfolio
 **1. Нетология:** [**Курсовой проект по модулю "Ручное тестирование веб-приложений"**](https://docs.google.com/spreadsheets/d/1rwOH_1bSl3k71f9xPiFtsMBglkxX22GGZdDG03BR8Fk/edit#gid=0)
 <details>
